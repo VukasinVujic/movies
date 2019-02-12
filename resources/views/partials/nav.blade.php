@@ -3,7 +3,7 @@
         <ul class="navbar-nav px-3">
           <li class="nav-item text-nowrap">
             <a class="nav-link" href="/movies">All movies</a>
-            <a class="nav-link" href="/add">Add movies</a>
+            <a class="nav-link" href="create">Add movies</a>
 
           </li>
         </ul>
